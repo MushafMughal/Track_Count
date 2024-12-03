@@ -1,0 +1,3 @@
+Models Weigth:
+#run in cmd after coming in weight directory
+Invoke-WebRequest https://github.com/WongKinYiu/yolov9/releases/download/v0.1/yolov9-e.pt -OutFile yolov9-e.pt
